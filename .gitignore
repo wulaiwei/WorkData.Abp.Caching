@@ -1,0 +1,9 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/.idea/.idea.Baidu.Api.dir
+/Src/.idea/.idea.Baidu.Api
+/Src/Baidu.Api.Service/bin/Debug/netstandard2.0
+/Src/Baidu.Api.Service/obj
+/Src/Baidu.Api.Service.Console
