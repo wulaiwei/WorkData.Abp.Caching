@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "D:\\私有项目\\gogs\\WorkData.AspNetCore\\WorkData.Abp.Caching\\WorkData.Abp.Caching.Tool\\WorkData.Abp.Caching.Tool.csproj",
+    "projectUniqueName": "D:\\私有项目\\github\\WorkData.Abp.Caching\\WorkData.Abp.Caching.Tool\\WorkData.Abp.Caching.Tool.csproj",
     "projectName": "WorkData.Abp.Caching.Tool",
-    "projectPath": "D:\\私有项目\\gogs\\WorkData.AspNetCore\\WorkData.Abp.Caching\\WorkData.Abp.Caching.Tool\\WorkData.Abp.Caching.Tool.csproj",
-    "outputPath": "D:\\私有项目\\gogs\\WorkData.AspNetCore\\WorkData.Abp.Caching\\WorkData.Abp.Caching.Tool\\obj\\",
+    "projectPath": "D:\\私有项目\\github\\WorkData.Abp.Caching\\WorkData.Abp.Caching.Tool\\WorkData.Abp.Caching.Tool.csproj",
+    "outputPath": "D:\\私有项目\\github\\WorkData.Abp.Caching\\WorkData.Abp.Caching.Tool\\obj\\",
     "projectStyle": "PackageReference",
     "originalTargetFrameworks": [
       "netcoreapp3.1"
@@ -17,8 +17,8 @@
     "frameworks": {
       "netcoreapp3.1": {
         "projectReferences": {
-          "D:\\私有项目\\gogs\\WorkData.AspNetCore\\WorkData.Abp.Caching\\WorkData.Abp.Caching\\WorkData.Abp.Caching.csproj": {
-            "projectPath": "D:\\私有项目\\gogs\\WorkData.AspNetCore\\WorkData.Abp.Caching\\WorkData.Abp.Caching\\WorkData.Abp.Caching.csproj"
+          "D:\\私有项目\\github\\WorkData.Abp.Caching\\WorkData.Abp.Caching\\WorkData.Abp.Caching.csproj": {
+            "projectPath": "D:\\私有项目\\github\\WorkData.Abp.Caching\\WorkData.Abp.Caching\\WorkData.Abp.Caching.csproj"
           }
         }
       }

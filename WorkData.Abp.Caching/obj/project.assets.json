@@ -956,11 +956,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\私有项目\\gogs\\WorkData.AspNetCore\\WorkData.Abp.Caching\\WorkData.Abp.Caching\\WorkData.Abp.Caching.csproj",
+      "projectUniqueName": "D:\\私有项目\\github\\WorkData.Abp.Caching\\WorkData.Abp.Caching\\WorkData.Abp.Caching.csproj",
       "projectName": "WorkData.Abp.Caching",
-      "projectPath": "D:\\私有项目\\gogs\\WorkData.AspNetCore\\WorkData.Abp.Caching\\WorkData.Abp.Caching\\WorkData.Abp.Caching.csproj",
+      "projectPath": "D:\\私有项目\\github\\WorkData.Abp.Caching\\WorkData.Abp.Caching\\WorkData.Abp.Caching.csproj",
       "packagesPath": "C:\\Users\\workdata\\.nuget\\packages\\",
-      "outputPath": "D:\\私有项目\\gogs\\WorkData.AspNetCore\\WorkData.Abp.Caching\\WorkData.Abp.Caching\\obj\\",
+      "outputPath": "D:\\私有项目\\github\\WorkData.Abp.Caching\\WorkData.Abp.Caching\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\workdata\\AppData\\Roaming\\NuGet\\NuGet.Config",

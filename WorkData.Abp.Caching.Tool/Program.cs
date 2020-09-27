@@ -12,7 +12,7 @@ namespace WorkData.Abp.Caching.Tool
             serviceCollection.ConfigureCachingServices();
             serviceCollection.AddStackExchangeRedisCache(options =>
             {
-                options.Configuration = "119.27.185.32:6379, password=workdata123!@#, defaultDatabase=0";
+                options.Configuration = "*";
             });
             var serviceProvider = serviceCollection.BuildServiceProvider();
             var distributedCache = serviceProvider.GetService<IDistributedCache<string>>();
