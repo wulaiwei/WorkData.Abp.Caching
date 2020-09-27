@@ -11,13 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("WorkData.Abp.Caching")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
-[assembly: System.Reflection.AssemblyDescriptionAttribute("Abp Vnext 分布式缓存组件\r\n1.去除多租户依赖\r\n2.移除自动Key前缀添加")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("WorkData.Abp.Caching.Tool")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("WorkData.Abp.Caching")]
-[assembly: System.Reflection.AssemblyTitleAttribute("WorkData.Abp.Caching")]
+[assembly: System.Reflection.AssemblyProductAttribute("WorkData.Abp.Caching.Tool")]
+[assembly: System.Reflection.AssemblyTitleAttribute("WorkData.Abp.Caching.Tool")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // 由 MSBuild WriteCodeFragment 类生成。

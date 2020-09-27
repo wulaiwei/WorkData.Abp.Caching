@@ -8,3 +8,7 @@
 /Src/Baidu.Api.Service/obj
 /Src/Baidu.Api.Service.Console
 .idea
+/.vs/WorkData.Abp.Caching/DesignTimeBuild
+/nupkg/nupkgs
+/WorkData.Abp.Caching/Properties/PublishProfiles
+/WorkData.Abp.Caching/bin/Release/netstandard2.0

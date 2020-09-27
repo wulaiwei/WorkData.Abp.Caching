@@ -2,6 +2,10 @@
 
     <PropertyGroup>
         <TargetFramework>netstandard2.0</TargetFramework>
+        <Description>Abp Vnext 分布式缓存组件
+1.去除多租户依赖
+2.移除自动Key前缀添加</Description>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     </PropertyGroup>
 
     <ItemGroup>
